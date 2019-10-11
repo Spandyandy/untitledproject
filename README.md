@@ -1,12 +1,12 @@
-# Create React App example with TypeScript
+# Untitled Project
 
 ## How to use
 
-Download the example [or clone the repo](https://github.com/mui-org/material-ui):
+Clone the repo
 
 ```sh
-curl https://codeload.github.com/mui-org/material-ui/tar.gz/master | tar -xz --strip=2 material-ui-master/examples/create-react-app-with-typescript
-cd create-react-app-with-typescript
+git clone https://github.com/Spandyandy/untitledproject.git
+cd untitledproject
 ```
 
 Install it and run:
@@ -16,6 +16,6 @@ npm install
 npm start
 ```
 
-## The idea behind the example
+## The project idea
 
-This example demonstrates how you can use [Create React App](https://github.com/facebookincubator/create-react-app) with [TypeScript](https://github.com/Microsoft/TypeScript).
+Anonymous social network / discussion application for Columbia Students
